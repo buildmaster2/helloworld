@@ -1,2 +1,2 @@
-# helloworld
-personal test repository
+# Star Wars Name Generator
+fun VBScript

@@ -1,10 +1,10 @@
-'Star Wars Name Generator
+'Star Wars Name Generator v2
 
 'Declare variables to erase any data from them.
 Dim strSWName, strSWFirstName, strSWLastName, strSWHonorName, strMedication
 
 'Set the title text for the message and input boxes.
-strTitle = "Star Wars Name Generator"
+strTitle = "Star Wars Name Generator v2"
 
 'Star Wars First Name
 'The rule: first 3 letters of first name + first 2 letters of last name.

@@ -1,5 +1,6 @@
 'Star Wars Name Generator v2
 
+'Does a comment count?
 'Declare variables to erase any data from them.
 Dim strSWName, strSWFirstName, strSWLastName, strSWHonorName, strMedication
 
